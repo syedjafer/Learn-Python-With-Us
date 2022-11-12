@@ -1,0 +1,3 @@
+Operations on string using string methods
+How to read documentation
+Some demo of string methods

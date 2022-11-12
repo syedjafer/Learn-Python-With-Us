@@ -1,0 +1,21 @@
+# Let's learn more about string related methods.
+
+
+mystring = "welcome"
+
+# capitalize 
+print("capitalized: ",mystring.capitalize())
+
+# upper
+print("upper cased: ",mystring.upper())
+
+
+# lower
+print("Lower cased: ",mystring.lower())
+
+# isalnum
+print("Checking alphanumeric: ",mystring.isalnum())
+
+# istitle
+print("mystring is title: ",mystring.istitle())
+print("TheWord is title: ","The Word".istitle())

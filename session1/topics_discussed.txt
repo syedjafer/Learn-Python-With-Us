@@ -1,0 +1,11 @@
+Introduction to computers
+Introduction to python
+The process of program execution
+How computers understand code
+What is programming and how it may help you
+Demonstration of some real life practical python code
+	Webscrapper
+	morning assistant
+	dictionary api calling
+	QR code generator using API
+

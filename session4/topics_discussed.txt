@@ -1,0 +1,7 @@
+What are data types?
+The 4 main data types in python
+type() function
+What are variables?
+variables naming convention
+Some practical problem solving using variables
+	Ramesh challenge python file

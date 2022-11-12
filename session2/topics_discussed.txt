@@ -1,0 +1,3 @@
+Introduction to computer I/O
+print statements
+Practical pattern printing excercise using print statements
